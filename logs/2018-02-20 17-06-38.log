@@ -1,0 +1,21 @@
+2018-02-20 17:06:38,320 - com.qspiders.KeyDriver - INFO - **********************Starting Frame Work**********************
+2018-02-20 17:06:41,959 - com.qspiders.KeyDriver - INFO - Total Number of Scenarios:2
+2018-02-20 17:06:42,038 - com.qspiders.KeyDriver - INFO - _________________________________________________________
+2018-02-20 17:06:42,039 - com.qspiders.KeyDriver - WARN - Skipping scenario:Scenario1
+2018-02-20 17:06:42,140 - com.qspiders.KeyDriver - INFO - ======================================================
+2018-02-20 17:06:42,140 - com.qspiders.KeyDriver - INFO - Starting scenario:Scenario2
+2018-02-20 17:06:42,161 - com.qspiders.KeyDriver - INFO - StepCount:4
+2018-02-20 17:06:42,244 - com.qspiders.KeyDriver - INFO - enter username
+2018-02-20 17:07:02,341 - com.qspiders.FWLibrary - ERROR - FAIL:sendKeys();Element Not Found with the xpath://input[@id='username']
+2018-02-20 17:07:02,434 - com.qspiders.KeyDriver - INFO - enter password
+2018-02-20 17:07:22,483 - com.qspiders.FWLibrary - ERROR - FAIL:sendKeys();Element Not Found with the xpath://input[@name='pwd']
+2018-02-20 17:07:22,579 - com.qspiders.KeyDriver - INFO - click login
+2018-02-20 17:07:42,598 - com.qspiders.FWLibrary - ERROR - FAIL:click(): Element Not Found with the xpath://a[@id='loginButton']
+2018-02-20 17:07:42,647 - com.qspiders.KeyDriver - INFO - verify err msg
+2018-02-20 17:07:46,084 - com.qspiders.FWLibrary - INFO - Element found with xpath:(//span[@class='errormsg'])[2]
+2018-02-20 17:07:46,085 - com.qspiders.FWLibrary - INFO - Element found with xpath:(//span[@class='errormsg'])[2]
+2018-02-20 17:07:46,085 - com.qspiders.KeyDriver - INFO - Ending scenario:Scenario2
+2018-02-20 17:07:46,085 - com.qspiders.KeyDriver - INFO - !!!! Execution Status of above scenario:FAIL !!!!
+2018-02-20 17:07:46,085 - com.qspiders.KeyDriver - INFO - ======================================================
+2018-02-20 17:07:46,964 - com.qspiders.KeyDriver - INFO - Total Pass:0 ; Total Fail:1 ; Total Skip:1
+2018-02-20 17:07:46,964 - com.qspiders.KeyDriver - INFO - **********************Ending Frame Work**********************

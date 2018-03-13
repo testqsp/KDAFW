@@ -1,0 +1,15 @@
+2018-02-20 16:38:33,594 - com.qspiders.KeyDriver - INFO - **********************Starting Frame Work**********************
+2018-02-20 16:38:47,827 - com.qspiders.KeyDriver - INFO - Total Number of Scenarios:2
+2018-02-20 16:38:47,892 - com.qspiders.KeyDriver - INFO - _________________________________________________________
+2018-02-20 16:38:47,892 - com.qspiders.KeyDriver - WARN - Skipping scenario:Scenario1
+2018-02-20 16:38:47,961 - com.qspiders.KeyDriver - INFO - ======================================================
+2018-02-20 16:38:47,961 - com.qspiders.KeyDriver - INFO - Starting scenario:Scenario2
+2018-02-20 16:38:48,018 - com.qspiders.KeyDriver - INFO - StepCount:4
+2018-02-20 16:38:48,098 - com.qspiders.KeyDriver - INFO - enter username
+2018-02-20 16:38:48,149 - com.qspiders.FWLibrary - INFO - Element found with xpath://input[@id='username']
+2018-02-20 16:38:48,278 - com.qspiders.FWLibrary - INFO - Entering "admin"
+2018-02-20 16:38:48,356 - com.qspiders.KeyDriver - INFO - enter password
+2018-02-20 16:38:48,388 - com.qspiders.FWLibrary - INFO - Element found with xpath://input[@name='pwd']
+2018-02-20 16:38:48,587 - com.qspiders.FWLibrary - INFO - Entering "damager"
+2018-02-20 16:38:48,688 - com.qspiders.KeyDriver - INFO - click login
+2018-02-20 16:38:48,716 - com.qspiders.FWLibrary - INFO - Element found with xpath://a[@id='loginButton']
